@@ -11,10 +11,9 @@ from avro.io import DatumReader
 # USER SETTINGS
 # ======================================================
 
-base_path = "/Users/kevinwu/Library/CloudStorage/OneDrive-VillanovaUniversity/Research/SPE Experiments New"
+base_path = ""
 
-subjects = [f'P{i}' for i in range(16, 41)]
-sessions = ['S1', 'S2', 'S3']
+
 
 # ======================================================
 # Helper functions
